@@ -10,7 +10,7 @@ I have a background of Computer Science developed during my bachelor and my work
 ### Current goal ⚡
 At the moment, I am looking for a company to supervise my master's thesis. I'm interest in a everything about Autonomus System, in particular robotics, Machine learning and embedded system.
 ### Found me in the web 🌍
-- [Personal website](smorettini.github.io)
+- [Personal website](https://smorettini.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/simone-morettini/)
 
 
