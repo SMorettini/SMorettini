@@ -8,7 +8,7 @@ I'm currently enrolled in the last year of the [EIT Digital](https://masterschoo
 
 I have a background of Computer Science developed during my bachelor and my work experiences. I aim to to create innvoative solutions that impact people. Moreover I'm very passionate in astronomy, space esploration and aereospace in general.
 ### Current goal ⚡
-At the moment, I am looking for a company to supervise my master's thesis. I'm interest in a everything about Autonomus System, in particular robotics, Machine learning and embedded system.
+I'm interest in a everything about Autonomus System, in particular robotics, Machine learning and embedded system. I would love to find work on the Space industry.
 ### Found me in the web 🌍
 - [Personal website](https://smorettini.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/simone-morettini/)
